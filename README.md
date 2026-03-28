@@ -266,6 +266,4 @@ print(f"总计：{len(REGION_CODES)} 个")
 
 ## 🔗 相关链接
 
-- [GitHub 仓库](https://github.com/Albert-zhw/region-codes-lib)
-- [Gitea 仓库](http://10.70.96.156:3000/Albert/region-codes-lib)
 - [中华人民共和国民政部](http://www.mca.gov.cn)
